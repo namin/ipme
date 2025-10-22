@@ -1,6 +1,6 @@
-# IP Address Viewer
+# ipme
 
-A minimal, elegant React app to display your IP address.
+IP Address Viewer
 
 ## Features
 
